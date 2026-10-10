@@ -1,3 +1,4 @@
+package LR1;
 class Animal {
     private int age;
     private double weight;
